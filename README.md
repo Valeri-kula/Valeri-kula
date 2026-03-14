@@ -3,6 +3,7 @@ I'm Valeri, a current student at UC Berkeley studying Applied Mathematics and St
 
 Linkedin: www.linkedin.com/in/valeri-kula
 Experience: Software Engineer and Hardware - Semiconductor specialization
+[Resume](https://docs.google.com/document/d/1BpfJCV-Oskbt6Sj4zCYuHHtJcV_e3W4Z8SAaOREo9c0/edit?usp=sharing)
 
 Currently working towards:
     - Analyzing University of Berkeley Police Department data- graphing trends to get a better understanding on how traffic stops represent the              Berkeley population
