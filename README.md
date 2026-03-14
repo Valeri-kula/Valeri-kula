@@ -1,8 +1,9 @@
 ## Hi there  ✨
 I'm Valeri, a current student at UC Berkeley studying Applied Mathematics and Statistics
+Relevant coursework: discrete math, multivariable calculus, r programming, python programming, differential equations
 
+## Career Timelines:
 Linkedin: www.linkedin.com/in/valeri-kula                                                                          
- 
 [Resume](https://docs.google.com/document/d/1BpfJCV-Oskbt6Sj4zCYuHHtJcV_e3W4Z8SAaOREo9c0/edit?usp=sharing)
 
 ## Experience:
