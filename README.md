@@ -3,6 +3,17 @@ I'm Valeri, a current student at UC Berkeley studying Applied Mathematics and St
 
 Linkedin: www.linkedin.com/in/valeri-kula
 Experience: Software Engineer and Hardware - Semiconductor specialization
+
+Currently working towards:
+    - Analyzing University of Berkeley Police Department data- graphing trends to get a better understanding on how traffic stops represent the              Berkeley population
+    - https://ucpd.berkeley.edu/alerts-and-reports/traffic-stop-data 
+
+Previous Project: I coded a red cross extension to streamline referral process
+    video displaying how it works: https://drive.google.com/file/d/1TT-7uVL5sWql4e9JjD8SDondOdonV3YV/view?usp=sharing
+    
+
+
+
 <!--
 **Valeri-kula/Valeri-kula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
