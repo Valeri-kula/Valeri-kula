@@ -1,10 +1,16 @@
-## Hi there 👋
+## Hi there  ✨
 I'm Valeri, a current student at UC Berkeley studying Applied Mathematics and Statistics
 
-Linkedin: www.linkedin.com/in/valeri-kula
-Experience: Software Engineer and Hardware - Semiconductor specialization
+Linkedin: www.linkedin.com/in/valeri-kula                                                                          
+ 
 [Resume](https://docs.google.com/document/d/1BpfJCV-Oskbt6Sj4zCYuHHtJcV_e3W4Z8SAaOREo9c0/edit?usp=sharing)
 
+## Experience:
+Software Engineer and Hardware - Semiconductor specialization
+## Coding Languages:
+R, Python, TypeScript, JavaScript, Matlab
+
+## Projects
 Currently working towards:
     - Analyzing University of Berkeley Police Department data- graphing trends to get a better understanding on how traffic stops represent the              Berkeley population
     - https://ucpd.berkeley.edu/alerts-and-reports/traffic-stop-data 
