@@ -16,9 +16,15 @@ Currently working towards:
     - Analyzing University of Berkeley Police Department data- graphing trends to get a better understanding on how traffic stops represent the              Berkeley population
     - https://ucpd.berkeley.edu/alerts-and-reports/traffic-stop-data 
 
+
 Previous Project: I coded a red cross extension to streamline referral process
     video displaying how it works: https://drive.google.com/file/d/1TT-7uVL5sWql4e9JjD8SDondOdonV3YV/view?usp=sharing
+
+I have created an interactive map to showcase demographic breakdowns for Berkeley that I have analyzed in relation to positioning of flock cameras: 
     
+Quarto Website
+https://valeri-kulasingham-website.netlify.app
+
 
 
 
