@@ -30,6 +30,8 @@ I have created an interactive map to showcase demographic breakdowns for Berkele
 Quarto Website
 https://valeri-kulasingham-website.netlify.app
 
+Text Statistical Analysis on Harry Potter
+https://valeri-kulasingham-harrypotter-proj6.netlify.app/analysis1
 
 
 
