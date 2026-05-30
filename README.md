@@ -1,4 +1,4 @@
-## Hi there  ✨
+## Hi!  :) 
 I'm Valeri, a current student at UC Berkeley studying Applied Mathematics and Statistics
 Relevant coursework: discrete math, multivariable calculus, r programming, python programming, differential equations
 
@@ -8,6 +8,11 @@ Linkedin: www.linkedin.com/in/valeri-kula
 
 ## Experience:
 Software Engineer and Hardware - Semiconductor specialization
+UC Berkeley Physics Lab :
+- Assisting with lab safety device experiments and testing setups for undergraduate lab projects. Utilized teleoperation workflows with controller based interfaces.
+- Operating lab fabrication equipment such as 3D printers, laser cutters, and designed systems with nodes, topics, etc.
+
+
 ## Coding Languages:
 R, Python, TypeScript, JavaScript, Matlab
 
