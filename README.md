@@ -1,5 +1,5 @@
 ## Hi!  :) 
-I'm Valeri, a current student at UC Berkeley studying Applied Mathematics and Statistics
+I'm Valeri, a current student at UC Berkeley studying Applied Mathematics and Electrical Engineering Computer Science 
 Relevant coursework: discrete math, multivariable calculus, r programming, python programming, differential equations
 
 ## Career Timelines:
